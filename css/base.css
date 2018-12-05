@@ -1,3 +1,6 @@
 body {
-    background-color: pink;
+    background-color: green;
+}
+.box {
+    width: 200px;
 }
